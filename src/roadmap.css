@@ -1,0 +1,35 @@
+/* .roadmap__bg{
+    width: 100vw;
+    margin-top: 0px;
+    object-fit: cover;
+    z-index: 0;
+    /* background-image: ;
+} */
+
+.roadmap__cont{
+    z-index: 50;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.roadmap__button{
+    width: 350px;
+    height: 100px;
+    font-size:x-large;
+    font-weight: 800;
+    font-family:'Courier New', Courier, monospace;
+    background-color: rgb(232, 236, 232);
+    border: none;
+    border-radius: 20px;
+    margin: 20px;
+    box-shadow: 10px;
+    color: rgb(3, 3, 3);
+}
+
+.roadmap{
+    justify-content: center;
+    align-items: center;
+}

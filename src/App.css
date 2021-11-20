@@ -1,0 +1,13 @@
+.app__bg{
+  z-index: 0;
+}
+
+.app__header{
+  z-index: 100;
+}
+
+.app__backimg{
+  width: 100vw;
+  /* margin-top: -90px; */
+  /* height:100vh; */
+}

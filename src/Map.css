@@ -1,0 +1,10 @@
+.map{
+    color: 'white';
+    background-color: 'grey';
+    padding: '15px 10px';
+    display: 'inline-flex';
+    align-items: 'center';
+    justify-content: 'center';
+    border-radius: '100%';
+    transform: 'translate(-50%, -50%)';
+}
